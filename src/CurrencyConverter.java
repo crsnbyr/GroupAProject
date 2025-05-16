@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class CurrencyConverter {
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void convert(Scanner scanner) {
         boolean continueConversion = true;
 
         // These are exchange rates as of 2025

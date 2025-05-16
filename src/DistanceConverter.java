@@ -2,8 +2,7 @@ import java.util.*;
 
 public class DistanceConverter {
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void convert(Scanner scanner) {
         boolean keepRunning = true;
 
         while (keepRunning) {
